@@ -2,7 +2,7 @@
     "keys": [
       {
         "key": "admin123",
-        "status": "active",
+        "status": "disabled",
         "owner": {
           "name": "insanity"
         }
